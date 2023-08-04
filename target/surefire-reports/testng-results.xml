@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-22T12:36:53 IST" name="Suite" finished-at="2023-07-22T12:38:09 IST" duration-ms="76037">
+  <suite started-at="2023-07-25T13:07:12 IST" name="Suite" finished-at="2023-07-25T13:08:14 IST" duration-ms="61105">
     <groups>
     </groups>
-    <test started-at="2023-07-22T12:36:53 IST" name="Test" finished-at="2023-07-22T12:38:09 IST" duration-ms="76037">
+    <test started-at="2023-07-25T13:07:12 IST" name="Test" finished-at="2023-07-25T13:08:14 IST" duration-ms="61105">
       <class name="demo.Amazon">
-        <test-method signature="AmazonTest()[pri:0, instance:demo.Amazon@7722c3c3]" started-at="2023-07-22T12:37:18 IST" name="AmazonTest" finished-at="2023-07-22T12:37:44 IST" duration-ms="25865" status="PASS">
+        <test-method signature="AmazonTest()[pri:0, instance:demo.Amazon@2ef3eef9]" started-at="2023-07-25T13:07:47 IST" name="AmazonTest" finished-at="2023-07-25T13:08:05 IST" duration-ms="18382" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AmazonTest -->
       </class> <!-- demo.Amazon -->
       <class name="demo.facebook">
-        <test-method signature="f()[pri:0, instance:demo.facebook@2ef3eef9]" started-at="2023-07-22T12:37:44 IST" name="f" finished-at="2023-07-22T12:38:09 IST" duration-ms="25158" status="PASS">
+        <test-method signature="f()[pri:0, instance:demo.facebook@243c4f91]" started-at="2023-07-25T13:08:05 IST" name="f" finished-at="2023-07-25T13:08:14 IST" duration-ms="8577" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- demo.facebook -->
       <class name="demo.filpkart">
-        <test-method signature="filpkartTest()[pri:0, instance:demo.filpkart@3427b02d]" started-at="2023-07-22T12:36:53 IST" name="filpkartTest" finished-at="2023-07-22T12:37:18 IST" duration-ms="24954" status="PASS">
+        <test-method signature="filpkartTest()[pri:0, instance:demo.filpkart@647e447]" started-at="2023-07-25T13:07:13 IST" name="filpkartTest" finished-at="2023-07-25T13:07:47 IST" duration-ms="34049" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- filpkartTest -->
